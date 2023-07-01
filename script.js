@@ -1,5 +1,4 @@
-
-    function validation()
+ function validation()
     {
         var opr1 = parseFloat(document.getElementById("num1").value);
       var opr2 = parseFloat(document.getElementById("num2").value);
